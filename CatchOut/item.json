@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "league format":"International Test Matches",
+        "category_id":1,
+        "image":"test.jpg",
+        "info":"Test cricket is the form of the sport of cricket with the longest match duration and is considered the game's highest standard.The first officially recognised Test match took place between 15 and 19 March 1877 and was played between England and Australia at the Melbourne Cricket Ground (MCG)"
+    },
+    {
+        "id": 2,
+        "league format":"ODI Matches",
+        "category_id":1,
+        "image":"odi.png",
+        "info":"A One Day International (ODI) is a form of limited overs cricket, played between two teams with international status, in which each team faces a fixed number of overs, currently 50 overs, with the game lasting up to 9 hours.."
+    },
+    {
+        "id":3,
+        "league format":"T20I Matches",
+        "category_id":1,
+        "image":"t20.png",
+        "info":"A Twenty20 International (T20I) is a form of cricket, played between two of the international members of the International Cricket Council (ICC), in which each team faces a maximum of 20 overs"
+
+    },
+    {
+        "id":4,
+        "league Name":"Indian Premier league",
+        "league format":"T20I",
+        "category_id":2,
+        "image":"ipl.jfif",
+        "info":"The Indian Premier League (IPL) is a professional Twenty20 cricket league, contested by eight teams based out of eight Indian cities.The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. It is usually held between March and May of every year and has an exclusive window in the ICC Future Tours Programme."
+    },
+    {
+        "id":5,
+        "league Name":"Vijay Hazare Trophy",
+        "league format":"T20I ",
+        "category_id":2,
+        "image":"Vijay-Hazare.jpg",
+        "info":"The Vijay Hazare Trophy, also known as the Ranji One-Day Trophy, was started in 2002-03 as a limited-overs cricket domestic competition involving state teams from the Ranji Trophy plates. It is named after the legendary Indian cricketer Vijay Hazare..",
+    }
+]
